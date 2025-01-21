@@ -5,7 +5,7 @@ Hi, my name is Gabriel, and I’m passionate about developing software.
 
 Currently, I am studying applied computer science at the [FHDW](https://www.fhdw.de/) in Paderborn (Germany), while working at [adessoSE](https://www.adesso.de/de/) gaining practical experience in fullstack development.
 
-I enjoy learning new technologies, sharing knowledge with the community and meeting new people. At the moment, I’m working on the [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer), where I focus on learning [React](https://react.dev/). Furthermore, I’m preparing for the [AWS Certified Cloud Practitioner Certification](https://aws.amazon.com/de/certification/certified-cloud-practitioner/). I’m also exploring the CRM-system of [ADITO](adito.de) to deepen my understanding of designing enterprise software solutions.
+I enjoy learning new technologies, sharing knowledge with the community and meeting new people. At the moment, I’m working on the [Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer), where I focus on learning [React](https://react.dev/). Furthermore, I’m preparing for the [AWS Certified Cloud Practitioner Certification](https://aws.amazon.com/de/certification/certified-cloud-practitioner/). I’m also exploring the CRM-system of [ADITO](https://adito.de) to deepen my understanding of designing enterprise software solutions.
 
 <!--
 ### Highlights
